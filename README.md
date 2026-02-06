@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/25129032/index.html)
+<img src="cutie.gif">
 <!DOCTYPE html>
 <html lang="en">
 <head>
